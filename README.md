@@ -1,5 +1,3 @@
-# README
-file for documentation 
 
 # 👩‍💻 Hi, I'm Lina Farhan
 
