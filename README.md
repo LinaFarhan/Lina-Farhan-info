@@ -1,7 +1,7 @@
-
 # 👩‍💻 Hi, I'm Lina Farhan
-
-🎓 I'm an IT Engineer from Yeme 
+--------------
+🎓 I'm an IT Engineer from Yemen
+--------------
 💼 Passionate about **Web Development**, **Project Management**, and **Design**
 --------------
 📘 I have experience in:  
